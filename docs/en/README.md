@@ -1,4 +1,4 @@
-**English** | [简体中文](https://github.com/Seyud/device_faker/blob/main/config/docs/README.md)
+**English** | [简体中文](https://github.com/Seyud/device_faker_config/blob/main/docs/README.md)
 
 # Device Faker Configuration Contribution Guide
 
